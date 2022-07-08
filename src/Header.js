@@ -20,7 +20,7 @@ function Header() {
         <div className='header__menuItems'>
             <a href="#">Free Stocks</a>
             <a href="#">Portfolio</a>
-            <a href="#">Cahs</a>
+            <a href="#">Cash</a>
             <a href="#">Messages</a>
             <a href="#">Account</a>
 
